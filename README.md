@@ -1,3 +1,3 @@
 # FinalProject-NoiThatMUJI
 
-link demo: 
+link demo: https://trgiahuy14.github.io/FinalProject-NoiThatMUJI/
