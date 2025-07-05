@@ -1,7 +1,7 @@
 # FinalProject-NoiThatMUJI
 
 - Tải source code, vào command prompt:
-git clone https://github.com/trgiahuy14/FinalProject-NoiThatMUJI
+git clone https://trgiahuy14.github.io/FinalProject-NoiThatMUJI/
 
 - Trước khi code, vô đúng branch: 
 git checkout + tên branch (huy, son, sang)
