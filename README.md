@@ -6,12 +6,14 @@
 git checkout + tên branch (huy, son, sang)
 ```
 - Sau khi code xong:
-    + Đầu tiên là commit:
+```bash
+git add .
+```
 ```bash
 git commit -m "ghi việc đã làm"
 ```
-    + Xong đẩy lên github:
+Xong đẩy lên github:
 ```bash
 git push origin + tên branch (huy, son, sang)
 ```
-NHỚ PUSH ĐÚNG BRANCH :)))) !
+Nhớ code với push đúng branch nha mấy thằng ông nội của con :)))) !
