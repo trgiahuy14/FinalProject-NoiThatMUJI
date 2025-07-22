@@ -25,3 +25,8 @@ Xong đẩy lên github:
 git push origin + tên branch (huy, son, sang)
 ```
 Nhớ push đúng branch tên mình, push xong t vào review rồi mới gộp vô branch main
+
+Cách fix lỗi git pull...:
+```bash
+git pull origin + tên branch (huy, son, sang, main) --no-rebase
+```
